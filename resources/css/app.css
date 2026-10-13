@@ -1,0 +1,36 @@
+/*
+|-----------------------------------------------------------
+| Library Management System - Application Styles
+|-----------------------------------------------------------
+|
+| Custom styles for the Library Management System using a
+| plain and simple brown/white color scheme with Bootstrap.
+|
+*/
+
+/* Brown color overrides for Bootstrap */
+.navbar {
+    background-color: #8B5E3C;
+}
+
+.text-brown {
+    color: #8B5E3C;
+}
+
+.border-brown {
+    border-color: #8B5E3C !important;
+}
+
+.table-light th {
+    background-color: #E8DCC9;
+    color: #8B5E3C;
+}
+
+.card {
+    border: none;
+}
+
+.bg-white-card {
+    background-color: #ffffff;
+}
+
